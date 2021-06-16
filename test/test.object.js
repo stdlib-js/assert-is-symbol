@@ -81,7 +81,7 @@ tape( 'the function returns `false` if not provided a symbol, even if `toStringT
 	var i;
 
 	isSymbol = proxyquire( './../lib/object.js', {
-		'@stdlib/utils/native-class': nativeClass
+		'@stdlib/utils-native-class': nativeClass
 	});
 
 	values = [
