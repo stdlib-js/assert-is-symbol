@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isSymbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-symbol@esm/index.mjs';
+import isSymbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-symbol@v0.0.9-esm/index.mjs';
 ```
 
 #### isSymbol( value )
@@ -96,7 +96,7 @@ bool = isSymbol.isObject( Object( Symbol( 'boop' ) ) );
 
 import hasSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-symbol-support@esm/index.mjs';
 import Symbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-ctor@esm/index.mjs';
-import isSymbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-symbol@esm/index.mjs';
+import isSymbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-symbol@v0.0.9-esm/index.mjs';
 
 var bool;
 if ( hasSymbolSupport() ) {
