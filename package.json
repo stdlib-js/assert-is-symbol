@@ -43,8 +43,8 @@
     "@stdlib/utils-native-class": "^0.1.0"
   },
   "devDependencies": {
-    "@stdlib/assert-is-boolean": "^0.0.8",
-    "@stdlib/bench": "^0.0.12",
+    "@stdlib/assert-is-boolean": "^0.1.0",
+    "@stdlib/bench": "^0.1.0",
     "@stdlib/object-ctor": "^0.1.0",
     "@stdlib/symbol-ctor": "^0.1.0",
     "proxyquire": "^2.0.0",
