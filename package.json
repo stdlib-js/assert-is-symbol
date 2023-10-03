@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-symbol",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Test if a value is a symbol.",
   "license": "Apache-2.0",
   "author": {
@@ -37,16 +37,16 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-has-symbol-support": "^0.1.0",
-    "@stdlib/utils-constant-function": "^0.1.0",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.0",
-    "@stdlib/utils-native-class": "^0.1.0"
+    "@stdlib/assert-has-symbol-support": "^0.1.1",
+    "@stdlib/utils-constant-function": "^0.1.1",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1",
+    "@stdlib/utils-native-class": "^0.1.1"
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.1.0",
     "@stdlib/bench": "^0.1.0",
-    "@stdlib/object-ctor": "^0.1.0",
-    "@stdlib/symbol-ctor": "^0.1.0",
+    "@stdlib/object-ctor": "^0.1.1",
+    "@stdlib/symbol-ctor": "^0.1.1",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
