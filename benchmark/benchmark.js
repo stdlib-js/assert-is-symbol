@@ -22,7 +22,7 @@
 
 // MODULES //
 
-var bench = require( '@stdlib/bench' );
+var bench = require( '@stdlib/bench-harness' );
 var isBoolean = require( '@stdlib/assert-is-boolean' ).isPrimitive;
 var hasSymbols = require( '@stdlib/assert-has-symbol-support' );
 var pkg = require( './../package.json' ).name;
